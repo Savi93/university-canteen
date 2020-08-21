@@ -1,4 +1,4 @@
-# university-canteen
+# University canteen SW
 
 This application was developed as emulation of the Software managing the UNIBZ canteen; in our case, the canteen is provided by a DBMS which manages the whole data; more precisely:
 •	Each student / professor has his own card (with chip) and with the relative balance
@@ -20,3 +20,5 @@ full price 5.20 €, contribution of the Province 2.60 €, final price for stud
 
 The students / professors have access to a GUI application where can check their own balance and the made transactions.
 The employees have the possibility through a GUI application to charge cards, sell menu’s, check statistics.
+
+### Technologies used: Java, SQL
