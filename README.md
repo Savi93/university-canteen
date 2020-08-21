@@ -18,4 +18,4 @@ This application was developed as emulation of the Software managing the UNIBZ c
 The students / professors have access to a GUI application where can check their own balance and the made transactions.
 The employees have the possibility through a GUI application to charge cards, sell menu’s, check statistics.
 
-### Technologies used: Java, SQL
+### Technologies used: Java, Java Swing, SQL
